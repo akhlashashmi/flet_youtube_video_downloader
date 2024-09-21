@@ -19,7 +19,7 @@ This is a YouTube Video Downloader built using Flet and yt-dlp. The application 
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/your-repository/modern-youtube-downloader.git
+git clone https://github.com/akhlashashmi/flet_youtube_video_downloader.git
 cd modern-youtube-downloader
 ```
 
